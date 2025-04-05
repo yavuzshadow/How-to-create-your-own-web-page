@@ -14,6 +14,9 @@
 打开电脑的控制面板中的“程序”-“启动或关闭Windows功能”，将图片里的所有功能都打勾。
 ![屏幕截图 2025-04-05 065026](https://github.com/user-attachments/assets/6dd92c3e-072b-4443-9269-6fb8c463d4ee)
 ![屏幕截图 2025-04-05 065035](https://github.com/user-attachments/assets/137176d0-0fc2-4bb5-88c6-baf85ec723d6)
+
+### 3.搭建服务器
+
 回到Windows的开始，搜索IIS，点进去后先点左上角的名称，再点击网站。
 ![屏幕截图 2025-04-05 065313](https://github.com/user-attachments/assets/0cc5ce80-51e4-442a-90a9-03a75e8180b1)
 网站名称可以自取，要上传的网站在哪里，就把文件夹路径设置成那个。
@@ -27,10 +30,6 @@ IP地址我填的是127.1.1.1，端口填80，类型为http。
 ![屏幕截图 2025-04-05 101405](https://github.com/user-attachments/assets/9a68ad70-26bd-4e41-8ba2-51a2acb25570)
 这是浏览器会打开你写的网页，并且地址栏显示的因该是127.1.1.1（如果你的IP填的是这个的话）。
 ![屏幕截图 2025-04-05 101539](https://github.com/user-attachments/assets/c804c6fe-f495-4f06-a342-a499fbffa50c)
-
-### 3.搭建服务器
-
-
 
 ### 4.内网穿透
 
